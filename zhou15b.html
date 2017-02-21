@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title><span>Power-Law Graph Cuts</span> | AISTATS 2015 | JMLR W&amp;CP</title>
+
+	<!-- Stylesheet -->
+	<link rel="stylesheet" type="text/css" href="../css/jmlr.css" />
+
+	<!-- Fixed position navigation -->
+	<!--#include virtual="/proceedings/css-scroll.txt"-->
+
+	<!-- MathJax -->
+	<script type="text/x-mathjax-config">
+	MathJax.Hub.Config({tex2jax: {inlineMath: [['\\(','\\)']]}});
+</script>
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+	<!-- Metadata -->
+	<!-- Google Scholar Meta Data -->
+
+<meta name="citation_title" content="{Power-Law Graph Cuts}">
+
+  <meta name="citation_author" content="Zhou, Xiangyang">
+
+  <meta name="citation_author" content="Zhang, Jiaxin">
+
+  <meta name="citation_author" content="Kulis, Brian">
+
+<meta name="citation_publication_date" content="2015">
+<meta name="citation_conference_title" content="Proceedings of the Eighteenth International Conference on Artificial Intelligence and Statistics">
+<meta name="citation_firstpage" content="1144">
+<meta name="citation_lastpage" content="1152">
+<meta name="citation_pdf_url" content="zhou15b.pdf">
+
+</head>
+<body>
+
+
+<div id="fixed">
+<!--#include virtual="/proceedings/nav-bar.txt"-->
+</div>
+
+<div id="content">
+
+	<h1><span>Power-Law Graph Cuts</span></h1>
+
+	<div id="authors">
+	
+		Xiangyang Zhou,
+	
+		Jiaxin Zhang,
+	
+		Brian Kulis
+	<br />
+	</div>
+	<div id="info">
+		Proceedings of the Eighteenth International Conference on Artificial Intelligence and Statistics,
+		pp. 1144–1152, 2015
+	</div> <!-- info -->
+
+	
+
+	<h2>Abstract</h2>
+	<div id="abstract">
+		Algorithms based on spectral graph cut objectives such as normalized cuts, ratio cuts and ratio association have become popular in recent years because they are widely applicable and simple to implement via standard eigenvector computations. Despite strong performance for a number of clustering tasks, spectral graph cut algorithms still suffer from several limitations: first, they require the number of clusters to be known in advance, but this information is often unknown a priori; second, they tend to produce clusters with uniform sizes. In some cases, the true clusters exhibit a known size distribution; in image segmentation, for instance, human- segmented images tend to yield segment sizes that follow a power-law distribution. In this paper, we propose a general framework of power-law graph cut algorithms that produce clusters whose sizes are power-law distributed, and also does not fix the number of clusters upfront. To achieve our goals, we treat the Pitman-Yor exchangeable partition probability function (EPPF) as a regularizer to graph cut objectives. Because the result- ing objectives cannot be solved by relaxing via eigenvectors, we derive a simple iterative algorithm to locally optimize the objectives. Moreover, we show that our proposed algorithm can be viewed as performing MAP inference on a particular Pitman-Yor mixture model. Our experiments on various data sets show the effectiveness of our algorithms.
+	</div>
+
+	<h2>Related Material</h2>
+	<div id="extras">
+		<ul>
+			<li><a href="zhou15b.pdf">Download PDF</a></li>
+			
+			
+		</ul>
+	</div> <!-- extras -->
+
+</div> <!-- content -->
+
+</body>
+</html>
