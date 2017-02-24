@@ -1,0 +1,47 @@
+---
+booktitle: Proceedings of the Eighteenth International Conference on Artificial Intelligence
+  and Statistics
+volume: 38
+year: '2015'
+start: 2015-05-09
+end: 2015-05-12
+shortname: AISTATS
+layout: proceedings
+series: Proceedings of Machine Learning Research
+id: AISTATS-2015
+month: 0
+abstract: ''
+sections: 
+editor:
+- given: Guy
+  family: Lebanon
+- given: S.V.N.
+  family: Vishwanathan
+title: Proceedings of the Eighteenth International Conference on Artificial Intelligence
+  and Statistics
+email: ''
+description: Proceedings of the Eighteenth International Conference on Artificial
+  Intelligence and Statistics, San Diego, California, USA
+url: http://proceedings.mlr.press
+baseurl: "/v38"
+twitter_username: mlresearch
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v38
+conference:
+  name: Artificial Intelligence and Statistics
+  url: http://www.aistats.org/aistats2015/
+  location: San Diego, California, USA
+  dates:
+  - 2015-05-09
+  - 2015-05-10
+  - 2015-05-11
+  - 2015-05-12
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from v38.bib
