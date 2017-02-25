@@ -18,11 +18,20 @@ editor:
   family: Lebanon
 - given: S.V.N.
   family: Vishwanathan
-title: Proceedings of the Eighteenth International Conference on Artificial Intelligence
-  and Statistics
-email: ''
-description: Proceedings of the Eighteenth International Conference on Artificial
-  Intelligence and Statistics, San Diego, California, USA
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the Eighteenth International Conference on Artificial Intelligence and Statistics
+    Held in San Diego, California, USA on 9-12 May 2015
+
+  Published as Volume 38 by the Proceedings of Machine Learning Research on 21 February 2015.
+
+  Volume Edited by:
+    Guy Lebanon
+    S.V.N. Vishwanathan
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
 url: http://proceedings.mlr.press
 baseurl: "/v38"
 twitter_username: mlresearch
@@ -32,6 +41,7 @@ permalink: "/:title.html"
 github:
   edit: true
   repository: v38
+email: ''
 conference:
   name: Artificial Intelligence and Statistics
   url: http://www.aistats.org/aistats2015/
