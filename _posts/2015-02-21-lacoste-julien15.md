@@ -1,6 +1,6 @@
 ---
 supplementary: Supplementary:lacoste-julien15-supp.pdf
-title: "{Sequential Kernel Herding: Frank-Wolfe Optimization for Particle Filtering}"
+title: 'Sequential Kernel Herding: Frank-Wolfe Optimization for Particle Filtering'
 abstract: Recently, the Frank-Wolfe optimization algorithm was suggested as a procedure
   to obtain adaptive quadrature rules for integrals of functions in a reproducing
   kernel Hilbert space (RKHS) with a potentially faster rate of convergence than Monte
@@ -17,6 +17,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: lacoste-julien15
 month: 0
+tex_title: "{Sequential Kernel Herding: Frank-Wolfe Optimization for Particle Filtering}"
 firstpage: 544
 lastpage: 552
 page: 544-552

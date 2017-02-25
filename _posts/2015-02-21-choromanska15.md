@@ -1,5 +1,5 @@
 ---
-title: "{The Loss Surfaces of Multilayer Networks}"
+title: The Loss Surfaces of Multilayer Networks
 abstract: 'We study the connection between the highly non-convex loss function of
   a simple model of the fully-connected feed-forward neural network and the Hamiltonian
   of the spherical spin-glass model under the assumptions of: i) variable independence,
@@ -22,6 +22,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: choromanska15
 month: 0
+tex_title: "{The Loss Surfaces of Multilayer Networks}"
 firstpage: 192
 lastpage: 204
 page: 192-204

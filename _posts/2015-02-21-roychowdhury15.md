@@ -1,6 +1,6 @@
 ---
 supplementary: Supplementary:roychowdhury15-supp.pdf
-title: "{Gamma Processes, Stick-Breaking, and Variational Inference}"
+title: Gamma Processes, Stick-Breaking, and Variational Inference
 abstract: While most Bayesian nonparametric models in machine learning have focused
   on the Dirichlet process, the beta process, or their variants, the gamma process
   has recently emerged as a useful nonparametric prior in its own right. Current inference
@@ -25,6 +25,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: roychowdhury15
 month: 0
+tex_title: "{Gamma Processes, Stick-Breaking, and Variational Inference}"
 firstpage: 800
 lastpage: 808
 page: 800-808

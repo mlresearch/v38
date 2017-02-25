@@ -1,6 +1,6 @@
 ---
 supplementary: Supplementary:krishnamurthy15-supp.pdf
-title: "{On Estimating L_2^2 Divergence}"
+title: On Estimating L_2^2 Divergence
 abstract: We give a comprehensive theoretical characterization of a nonparametric
   estimator for the L_2^2 divergence between two continuous distributions. We first
   bound the rate of convergence of our estimator, showing that it is \sqrtn-consistent
@@ -12,6 +12,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: krishnamurthy15
 month: 0
+tex_title: "{On Estimating L_2^2 Divergence}"
 firstpage: 498
 lastpage: 506
 page: 498-506

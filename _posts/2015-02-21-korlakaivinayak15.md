@@ -1,5 +1,5 @@
 ---
-title: "{DART: Dropouts meet Multiple Additive Regression Trees}"
+title: 'DART: Dropouts meet Multiple Additive Regression Trees'
 abstract: MART, an ensemble model of boosted regression trees, is known to deliver
   high prediction accuracy for diverse tasks, and is widely used in practice. However,
   it suffers an issue which we call over-specialization, wherein trees added at later
@@ -19,6 +19,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: korlakaivinayak15
 month: 0
+tex_title: "{DART: Dropouts meet Multiple Additive Regression Trees}"
 firstpage: 489
 lastpage: 497
 page: 489-497

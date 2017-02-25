@@ -1,5 +1,5 @@
 ---
-title: "{Modeling Skill Acquisition Over Time with Sequence and Topic Modeling}"
+title: Modeling Skill Acquisition Over Time with Sequence and Topic Modeling
 abstract: Online education provides data from students solving problems at different
   levels of proficiency over time. Unfortunately, methods that use these data for
   inferring student knowledge rely on costly domain expertise. We propose three novel
@@ -13,6 +13,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: gonzalez-brenes15
 month: 0
+tex_title: "{Modeling Skill Acquisition Over Time with Sequence and Topic Modeling}"
 firstpage: 296
 lastpage: 305
 page: 296-305

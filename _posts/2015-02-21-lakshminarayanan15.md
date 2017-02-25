@@ -1,6 +1,6 @@
 ---
 supplementary: Supplementary:lakshminarayanan15-supp.pdf
-title: "{Particle Gibbs for Bayesian Additive Regression Trees}"
+title: Particle Gibbs for Bayesian Additive Regression Trees
 abstract: Additive regression trees are flexible non-parametric models and popular
   off-the-shelf tools for real-world non-linear regression. In application domains,
   such as bioinformatics, where there is also demand for probabilistic predictions
@@ -19,6 +19,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: lakshminarayanan15
 month: 0
+tex_title: "{Particle Gibbs for Bayesian Additive Regression Trees}"
 firstpage: 553
 lastpage: 561
 page: 553-561

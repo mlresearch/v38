@@ -1,5 +1,5 @@
 ---
-title: "{A Bayes consistent 1-NN classifier}"
+title: A Bayes consistent 1-NN classifier
 abstract: We show that a simple modification of the 1-nearest neighbor classifier
   yields a strongly Bayes consistent learner. Prior to this work, the only strongly
   Bayes consistent proximity-based method was the k-nearest neighbor classifier, for
@@ -12,6 +12,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: kontorovich15
 month: 0
+tex_title: "{A Bayes consistent 1-NN classifier}"
 firstpage: 480
 lastpage: 488
 page: 480-488

@@ -1,5 +1,5 @@
 ---
-title: "{Dimensionality estimation without distances}"
+title: Dimensionality estimation without distances
 abstract: While existing methods for estimating the intrinsic dimension of datasets
   require to know distances between data points, we consider a situation where one
   has considerably less information. Given a sample of points, all we get to see is
@@ -14,6 +14,7 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: kleindessner15
 month: 0
+tex_title: "{Dimensionality estimation without distances}"
 firstpage: 471
 lastpage: 479
 page: 471-479

@@ -1,6 +1,5 @@
 ---
-title: "{Computational Complexity of Linear Large Margin Classification With Ramp
-  Loss}"
+title: Computational Complexity of Linear Large Margin Classification With Ramp Loss
 abstract: Minimizing the binary classification error with a linear model leads to
   an NP-hard problem.  In practice, surrogate loss functions are used, in particular
   loss functions leading to large margin classification such as the hinge loss and
@@ -18,6 +17,8 @@ layout: inproceedings
 series: Proceedings of Machine Learning Research
 id: frejstrupmaibing15
 month: 0
+tex_title: "{Computational Complexity of Linear Large Margin Classification With Ramp
+  Loss}"
 firstpage: 259
 lastpage: 267
 page: 259-267
