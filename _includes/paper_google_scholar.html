@@ -10,9 +10,9 @@
 
 <meta name="citation_pdf_url" content="{{ page.pdf }}">
 
-{% if site.conference contains 'Proceedings of' %}
-<meta name="description" content="Electronic {{ site.conference.name }}">
+{% if site.booktitle contains 'Proceedings of' %}
+<meta name="description" content="Electronic {{ site.booktitle }}">
 {% else %}
-<meta name="description" content="Electronic Proceedings of {{ site.conference.name }}">
+<meta name="description" content="Electronic Proceedings of {{ site.booktitle }}">
 {% endif %}
 
