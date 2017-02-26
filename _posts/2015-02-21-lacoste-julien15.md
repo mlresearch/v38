@@ -1,5 +1,5 @@
 ---
-supplementary: Supplementary:lacoste-julien15-supp.pdf
+supplementary: http://proceedings.mlr.press/v38/lacoste-julien15-supp.pdf
 title: 'Sequential Kernel Herding: Frank-Wolfe Optimization for Particle Filtering'
 abstract: Recently, the Frank-Wolfe optimization algorithm was suggested as a procedure
   to obtain adaptive quadrature rules for integrals of functions in a reproducing
@@ -21,7 +21,8 @@ tex_title: "{Sequential Kernel Herding: Frank-Wolfe Optimization for Particle Fi
 firstpage: 544
 lastpage: 552
 page: 544-552
-sections: 
+order: 544
+cycles: false
 author:
 - given: Simon
   family: Lacoste-Julien

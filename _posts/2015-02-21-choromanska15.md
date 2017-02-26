@@ -26,7 +26,8 @@ tex_title: "{The Loss Surfaces of Multilayer Networks}"
 firstpage: 192
 lastpage: 204
 page: 192-204
-sections: 
+order: 192
+cycles: false
 author:
 - given: Anna
   family: Choromanska

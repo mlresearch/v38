@@ -1,5 +1,5 @@
 ---
-supplementary: Supplementary:roychowdhury15-supp.pdf
+supplementary: http://proceedings.mlr.press/v38/roychowdhury15-supp.pdf
 title: Gamma Processes, Stick-Breaking, and Variational Inference
 abstract: While most Bayesian nonparametric models in machine learning have focused
   on the Dirichlet process, the beta process, or their variants, the gamma process
@@ -29,7 +29,8 @@ tex_title: "{Gamma Processes, Stick-Breaking, and Variational Inference}"
 firstpage: 800
 lastpage: 808
 page: 800-808
-sections: 
+order: 800
+cycles: false
 author:
 - given: Anirban
   family: Roychowdhury

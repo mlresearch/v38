@@ -1,5 +1,5 @@
 ---
-supplementary: Supplementary:krishnamurthy15-supp.pdf
+supplementary: http://proceedings.mlr.press/v38/krishnamurthy15-supp.pdf
 title: On Estimating L_2^2 Divergence
 abstract: We give a comprehensive theoretical characterization of a nonparametric
   estimator for the L_2^2 divergence between two continuous distributions. We first
@@ -16,7 +16,8 @@ tex_title: "{On Estimating L_2^2 Divergence}"
 firstpage: 498
 lastpage: 506
 page: 498-506
-sections: 
+order: 498
+cycles: false
 author:
 - given: Akshay
   family: Krishnamurthy

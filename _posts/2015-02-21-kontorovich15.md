@@ -16,7 +16,8 @@ tex_title: "{A Bayes consistent 1-NN classifier}"
 firstpage: 480
 lastpage: 488
 page: 480-488
-sections: 
+order: 480
+cycles: false
 author:
 - given: Aryeh
   family: Kontorovich

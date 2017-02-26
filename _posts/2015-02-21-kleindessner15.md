@@ -18,7 +18,8 @@ tex_title: "{Dimensionality estimation without distances}"
 firstpage: 471
 lastpage: 479
 page: 471-479
-sections: 
+order: 471
+cycles: false
 author:
 - given: Matthäus
   family: Kleindessner

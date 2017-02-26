@@ -22,7 +22,8 @@ tex_title: "{Computational Complexity of Linear Large Margin Classification With
 firstpage: 259
 lastpage: 267
 page: 259-267
-sections: 
+order: 259
+cycles: false
 author:
 - given: Søren
   family: Frejstrup Maibing

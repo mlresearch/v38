@@ -17,7 +17,8 @@ tex_title: "{Modeling Skill Acquisition Over Time with Sequence and Topic Modeli
 firstpage: 296
 lastpage: 305
 page: 296-305
-sections: 
+order: 296
+cycles: false
 author:
 - given: José
   family: González-Brenes
