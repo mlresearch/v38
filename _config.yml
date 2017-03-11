@@ -11,15 +11,13 @@ layout: proceedings
 series: Proceedings of Machine Learning Research
 id: AISTATS-2015
 month: 0
-abstract: ''
-tex_title: 
-title: Proceedings of Machine Learning Research
 cycles: false
 editor:
 - given: Guy
   family: Lebanon
 - given: S. V. N.
   family: Vishwanathan
+title: Proceedings of Machine Learning Research
 description: |
   Proceedings of the Eighteenth International Conference on Artificial Intelligence and Statistics
     Held in San Diego, California, USA on 09-12 May 2015
@@ -36,7 +34,7 @@ description: |
 date_str: 09--12 May
 url: http://proceedings.mlr.press
 baseurl: "/v38"
-twitter_username: mlresearch
+twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
 permalink: "/:title.html"
@@ -48,6 +46,7 @@ display:
     bibtex: true
     endnote: true
     apa: true
+    ris: true
   comments: false
 email: ''
 conference:
@@ -64,3 +63,4 @@ analytics:
     tracking_id: UA-92432422-1
 # Site settings
 # Auto generated from v38.bib
+---
