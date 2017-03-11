@@ -58,6 +58,7 @@ conference:
   - 2015-05-10
   - 2015-05-11
   - 2015-05-12
+  number: 18
 analytics:
   google:
     tracking_id: UA-92432422-1
